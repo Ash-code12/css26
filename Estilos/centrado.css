@@ -1,0 +1,39 @@
+*{
+   margin: 0;
+   padding: 0;
+   box-sizing: border-box;
+    }
+
+
+    /*body{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        height: 100vh;
+    }*/
+
+
+
+    /*section div{
+        display: flex;
+        width: 400px;
+        height: 400px;
+        background-color: rgb(167, 98, 231);
+        justify-content: center;
+        align-items: center;
+        /*border: solid rgb(0, 0, 0) 1px;
+        font-size: 20px ;
+        color: aliceblue;
+        text-align: center;
+        justify-content: center;
+        justify-content: flex-start;
+        align-items: center;
+        align-content: center;*/
+
+.h1{
+    align-content: flex-start ;
+}
+
+.h2{
+    flex-wrap: wrap-reverse;
+}
